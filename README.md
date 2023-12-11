@@ -1,7 +1,5 @@
 # NLP-Sentimental-Analysis-Using-Naive-Bayes-Classifier
 
-
-Algorithm_Dataset
 This repository houses datasets and algorithms essential for our sentiment analysis project focused on deciphering movie reviews.
 
 Team Members:
@@ -20,5 +18,5 @@ To effectively utilize the datasets and algorithms contained in this repository,
     **git clone https://github.com/PranjalShinde18/NLP-Sentimental-Analysis-Using-Naive-Bayes-Classifier**
 
 2. Navigate to the downloded Directory:
-    **Run the movies.ipynb**
+    **Run the movies.ipynb.**
 
